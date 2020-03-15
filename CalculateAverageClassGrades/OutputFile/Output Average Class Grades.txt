@@ -1,0 +1,40 @@
+American Credit Acceptance Coding Challenge Output 
+
+-> Ques: [5.a] The highest Performing Class:
+	 Name= ClassB, Average Grade = 80.2
+
+-> Ques: [5.b] The average score for all students regardless of class:
+	 Average Score = 79.3
+
+-> Ques: [5.c] For each class:
+
+	 Name of the Class = ClassB 
+
+	 i. Average score for the class = 80.2
+	 ii. Total number of students within the class = 10
+	 iii. The number of students used to calculate the class average = 10
+	 iv. All the students were considered
+
+	 Name of the Class = ClassC 
+
+	 i. Average score for the class = 80.1
+	 ii. Total number of students within the class = 10
+	 iii. The number of students used to calculate the class average = 10
+	 iv. All the students were considered
+
+	 Name of the Class = ClassA 
+
+	 i. Average score for the class = 79.4
+	 ii. Total number of students within the class = 10
+	 iii. The number of students used to calculate the class average = 9
+	 iv. The names of any students who were discarded from consideration:
+		 - Edith Adkins
+
+	 Name of the Class = ClassD 
+
+	 i. Average score for the class = 77.4
+	 ii. Total number of students within the class = 12
+	 iii. The number of students used to calculate the class average = 11
+	 iv. The names of any students who were discarded from consideration:
+		 - Edith Adkins
+

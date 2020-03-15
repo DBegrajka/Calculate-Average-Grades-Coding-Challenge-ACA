@@ -1,0 +1,8 @@
+/bin
+/obj
+CalculateAverageClassGrades/bin/
+CalculateAverageClassGrades/obj/
+\.vs/
+*.suo
+*.user
+
